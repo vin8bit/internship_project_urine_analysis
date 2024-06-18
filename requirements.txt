@@ -2,4 +2,4 @@ django
 opencv-python
 Pillow
 opencv-python-headless
-numpy==1.23
+numpy

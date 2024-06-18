@@ -1,8 +1,10 @@
 I am using vscode framework for this project.
 
-Step 1. Create virutal environement
+Step 1. Create virutal environement and activate
 
 	Command: python -m venv venv_name 
+ 	Command: .\venv_name\Scripts\activate
+ 
 
 Step 2 - 
 	

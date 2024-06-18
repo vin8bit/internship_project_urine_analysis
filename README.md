@@ -12,4 +12,6 @@ Step 3 - Goto urine_analysis folder
 
 	 command: cd urine_analysis
 
-step 4 - Command: python manage.py runserver
+step 4 - 
+
+	Command: python manage.py runserver

@@ -1,13 +1,12 @@
-# internship_project_urine_analysis
+I am using vscode framework for this project.
 
-Create virutal environement
+Step 1. Create virutal environement
 
-Step 1 - 
-    pip install -r requirements.txt
+	Command: python -m venv venv_name 
 
-Step 2-
-    goto urine_analysis folder
-    cd urine_analysis
+Step 1 - Command: pip install -r requirements.txt
 
-step 3 -
-    Run command  - python manage.py runserver
+Step 2 - Goto urine_analysis folder 
+	 command: cd urine_analysis
+
+step 3 - Command: python manage.py runserver

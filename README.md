@@ -19,3 +19,21 @@ step 4 -
 	Command: python manage.py runserver
  step 5- 
         Open http://127.0.0.1:8000 in the browser
+
+
+### Getting Started
+
+1. Create and activate a virtual environment:  
+   `python -m venv venv_name && source venv_name/bin/activate`
+
+2. Install dependencies:  
+   `pip install -r requirements.txt`
+
+3. Navigate to the project directory:  
+   `cd urine_analysis`
+
+4. Run the development server:  
+   `python manage.py runserver`
+
+5. Open your browser and go to:  
+   [http://127.0.0.1:8000](http://127.0.0.1:8000)

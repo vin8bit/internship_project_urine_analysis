@@ -3,3 +3,5 @@ opencv-python
 Pillow
 opencv-python-headless
 numpy
+numpy3
+
